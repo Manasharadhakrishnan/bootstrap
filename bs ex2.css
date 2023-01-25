@@ -1,0 +1,54 @@
+
+.about{ 
+    background-color: #1abc9c; 
+    width: 100%;
+}
+.header{
+    background-color: #2c3e50;
+}
+.foot1{
+    background-color: #2c3e50;
+}
+.head1{
+    background-color:   #1abc9c;
+}
+.submit{
+    background-color:   #1abc9c;
+}
+.link{
+    color: #1abc9c;
+}
+.icons{
+    border-radius: 50%;
+}
+.button{
+    background-color:   #1abc9c;
+    border-radius: 2px;
+}
+.btn-xl {
+    padding: 1rem 1.75rem;
+    font-size: 1.25rem;
+}
+.but{
+    background-color:   #1abc9c;
+    width: 100px;
+    border-radius: 5px;
+}
+
+
+
+#gallery-popup .modal-image{
+width: 100%;
+
+}
+.btn-primary {
+    color: #fff;
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+}
+.hvr:hover{
+    color: #1abc9c;
+}
+.nav-link-active{
+    background-color: #1abc9c !important;
+}
